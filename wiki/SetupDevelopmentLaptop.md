@@ -53,8 +53,9 @@
     curl -k -o miniconda.exe https://repo.anaconda.com/miniconda/Miniconda3-py310_23.1.0-1-Windows-x86_64.exe
     start "" /wait miniconda.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%HOME%\.conda
     del /f miniconda.exe
-    .conda\miniconda\conda activate
+    .conda\condabin\conda activate
     conda create -y -n fll python=3.10
+    exit
     ```
 
 1. Download/Install VSCode

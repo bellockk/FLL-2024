@@ -1,4 +1,4 @@
-# Setting Up a Development Laptop for FLL
+# [Setting Up a Development Laptop for FLL](../README.md)
 
 1. Install Windows.
 

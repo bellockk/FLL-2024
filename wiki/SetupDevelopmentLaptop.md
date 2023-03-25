@@ -4,7 +4,7 @@
 
     * Use the pink USB Stick.
     * When asked which partition to install on, delete all partitions, then create a new partition with half the size of the available disk, and select the new partition to intall Windows on.
-    * When asked to select your network, choose "I do not have access to the Internet".  We will connect after installation.  If you connect now it will force you to provide a Microsoft ID to finish installation of Windows.
+    * On the "Let's connect you to a network" step, choose "I don't have internet" in the bottom left corner.  We will connect after installation.  If you connect now it will force you to provide a Microsoft ID to finish installation of Windows.
     * Use "FLL" for the username, "maker" for the password, and pick any 3 security questions and answer them all with "maker".
 
 1. Update Windows.

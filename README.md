@@ -3,4 +3,4 @@ OMMS FLL 2024 Season
 
 # Wiki
 
-[Setting up a Development Machine](wiki/SetupDevelopmentLaptop.md)
+[Setting up a Development Machine](doc/SetupDevelopmentLaptop.md)

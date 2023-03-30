@@ -4,6 +4,15 @@ from pybricks.tools import wait, StopWatch
 log = logging.getLogger(__name__)
 
 def timed_loop(frequency=10):
+    """
+    Timed loop.
+    
+    Args:
+      frequency: The loop frequency in Hz.
+
+    Yields:
+      The frame number.
+    """
     frame = 0
     interval = 1000 / frequency
     timer = StopWatch()

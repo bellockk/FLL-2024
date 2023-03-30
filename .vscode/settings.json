@@ -1,5 +1,11 @@
 {
     "files.eol": "\n",
     "debug.openDebug": "neverOpen",
+    "python.linting.enabled": true,
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.pydocstyleArgs": ["--ignore=D107,D203", "--convention=google"],
+    "python.linting.pycodestyleEnabled": true,
+    // "pylint.args": ["--disable=D107"],
+    "files.trimTrailingWhitespace": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
